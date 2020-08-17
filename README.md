@@ -1,2 +1,2 @@
 # COSC1078
-Demo
+Assignment 1 My Profile
